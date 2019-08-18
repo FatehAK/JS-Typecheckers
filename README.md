@@ -1,2 +1,2 @@
 # JS-Typecheckers
-A demo on type checking on JS using JSDoc, TypeScript and Flow
+A demo on JavaScript type checking using JSDoc, TypeScript and Flow.
